@@ -1,0 +1,67 @@
+body {
+  margin: 0em;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+
+#chibs {
+  text-decoration: none;
+  color: #7d068d;
+  font-weight: bolder;
+  font-family: fantasy;
+}
+
+#save-btn {
+  background-color: #150570;
+  color: #faf5f5;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: black solid 1px;
+}
+
+#tab-btn {
+  background-color: #1a4103;
+  color: #faf5f5;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: black solid 1px;
+}
+
+#deleteall-btn {
+  background-color: #570505;
+  color: #faf5f5;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border: black solid 1px;
+}
+
+#input-el {
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: 1px solid #5f9341;
+  margin-bottom: 5px;
+}
+
+#linkss {
+  padding: 0px;
+}
+
+ul {
+  color: #5f9341;
+  list-style: none;
+  margin-top: 10px;
+}
+
+li {
+  color: #5f9341;
+  margin-top: 5px;
+}
+
+li a {
+  color: #5f9341;
+}
+/*# sourceMappingURL=links.css.map */

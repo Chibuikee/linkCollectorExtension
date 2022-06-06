@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version": "1.1",
+    "name": "LINKSAVER",
+    "action": {
+        "default_popup": "links.html",
+        "icon": { "16": "chibs.jpeg"} 
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
